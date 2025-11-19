@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 안녕하세요! 👋 저는 JSJeong입니다.
+# Hello! 👋 Joon Soo Jeong /PhD.
 
-저는 LLM Agent, Interpretable AI (XAI), 그리고 Multi-Objective Optimization 분야를 연구하고 있습니다. 최근에는 LLM을 활용한 금융 문서 분석 및 생성형 AI를 이용한 이미지 작업에 관심을 두고 있습니다.
+저는 LLM Agent, Interpretable AI (XAI), 그리고 Multi-Objective Optimization 분야를 연구하고 있습니다. 
 
 ---
 
