@@ -19,30 +19,65 @@ Here are some ideas to get you started:
 
 ---
 
-## 📝 Recent Publications (최근 연구 실적)
+📚 Recent Publications (최근 연구 실적)
+저의 주요 연구 분야인 AI Agent, LLM, Interpretable AI 관련 논문 목록입니다.
 
-가장 최근에 발표되었거나 진행 중인 논문 목록입니다. 연구 내용에 대한 자세한 정보는 링크를 참고해 주세요.
+🏆 2025 (The Latest)
+가장 최근에 발표되었거나 진행 중인 연구들입니다.
 
-### 🌟 Featured Publication (대표 논문 강조)
+🚀 **Scalable Reasoning via Task Decomposition and Model Routing: Achieving Near-Linear Cost in End-to-End Pipelines** [[PDF]](https://drive.google.com/file/d/1n6oWMpHbmThr6PABQlEyGdnuRWQdSyRu/view?usp=sharing)
 
-> **안전하고 해석 가능한 AI를 위한 GRPO(Group Relative Policy Optimization) BDI 보상 모델 (2025)**
->
-> 이 논문은 LLM 기반 Multi-Agent System의 안정성과 예측 가능성을 높이기 위해 **GRPO**와 **BDI (Belief-Desire-Intention)** 모델을 결합한 새로운 정책 최적화 방법을 제안합니다.
->
-> 🔗 **[[논문 원문 보기]](https://drive.google.com/file/d/1hwqpjQzNqX3_h-ts4WQZ9FG6AaKN1nC7/view?usp=sharing)**
+분야: LLM, Reasoning, System Architecture
+
+발표 연도: 2025
+
+⚖️ **MO-GRPO for Mitigating Reward Hacking in Multi-Objective LLM RL through a Variance-Equalizing Whitening Layer** [[PDF]](https://drive.google.com/file/d/1xwYLy05o5MM9cyKbKivazBgrUHD0fKA9/view?usp=sharing)
+
+분야: Multi-Objective Optimization (MOO), LLM RL
+
+발표 연도: 2025
+
+🤖 **LLM Agent의 합리적 의사결정을 위한 Prompt 활용 연구** [[PDF]](https://drive.google.com/file/d/1aigAd9Qe5SM4VFDoN_LcV6EHTHK5VCCF/view?usp=sharing)
+
+분야: AI Agent, Prompt Engineering
+
+발표 연도: 2025
+
+🛡️ **안전하고 해석 가능한 AI를 위한 GRPO(Group Relative Policy Optimization) BDI 보상 모델** [[PDF]](https://drive.google.com/file/d/1hwqpjQzNqX3_h-ts4WQZ9FG6AaKN1nC7/view?usp=sharing)
+
+분야: Interpretable AI (XAI), Reinforcement Learning (RL)
+
+발표 연도: 2025
+
+📰 2024
+지난 해 주요 연구 성과 목록입니다.
+
+📊 **An Empirical Study of the Structural Understanding Capabilities of LLMs on Financial Document Tables** [[PDF]](https://drive.google.com/file/d/1edpW9TkiNPAEhD5NvFgQOv2i73wFiEBz/view)
+
+분야: LLM, Financial AI, Table Understanding
+
+발표 연도: 2024
+
+📈 **LLM 메타프롬팅을 활용한 기업 공시문서 분석에 관한 연구** [[PDF]](https://drive.google.com/file/d/1TxnWguINsrf76HOpsPjCa07aTUYHFsgQ/view)
+
+분야: LLM, Meta-Prompting, Finance
+
+발표 연도: 2024
+
+⚙️ **Design and Implementation of a Condition-Based Operation (CBO) using LLM-Based Multi-Agent Systems** [[PDF]](https://drive.google.com/file/d/1YZIvoPfnxh6VM0FhfAgtXGMR9ItUs_xy/view?pli=1)
+
+분야: Multi-Agent System, CBO, IoT
+
+발표 연도: 2024
+
+🖼️ **Custom Hairstyle Image Generation and Similarity Analysis Using Diffuser and PEFT** [[PDF]](https://github.com/JSJeong-me/Generate_AI_for_Image?tab=readme-ov-file)
+
+분야: Generative AI, Diffuser, PEFT
+
+발표 연도: 2024
 
 ---
 
-### 📚 Full Publication List (전체 목록)
-
-| 연도 | 제목 | 분야/키워드 | 링크 |
-| :---: | :--- | :---: | :---: |
-| **2025** | **LLM Agent의 합리적 의사결정을 위한 Prompt 활용 연구** | AI Agent, Prompt Engineering | [[PDF]](https://drive.google.com/file/d/1aigAd9Qe5SM4VFDoN_LcV6EHTHK5VCCF/view?usp=sharing) |
-| 2025 | MO-GRPO for Mitigating Reward Hacking in Multi-Objective LLM RL... | LLM RL, MOO | [[PDF]](https://www.google.com/url?q=https://drive.google.com/file/d/1xwYLy05o5MM9cyKbKivazBgrUHD0fKA9/view?usp%3Dsharing) |
-| 2025 | Scalable Reasoning via Task Decomposition and Model Routing... | LLM, Task Decomposition | [[PDF]](https://www.google.com/url?q=https://drive.google.com/file/d/1n6oWMpHbmThr6PABQlEyGdnuRWQdSyRu/view?usp%3Dsharing) |
-| **2024** | An Empirical Study of the Structural Understanding Capabilities of LLMs on Financial Document Tables | LLM, Financial AI | [[GitHub/Code]](https://github.com/JSJeong-me/GPT-Table) |
-| 2024 | Custom Hairstyle Image Generation and Similarity Analysis Using Diffuser and PEFT | Generative AI, PEFT | [[Project Page]](https://github.com/JSJeong-me/Generate_AI_for_Image?tab=readme-ov-file) |
-| 2024 | LLM 메타프롬팅을 활용한 기업 공시문서 분석에 관한 연구 | LLM, Finance | [[PDF]](https://drive.google.com/file/d/1TxnWguINsrf76HOpsPjCa07aTUYHFsgQ/view) |
 
 ---
 
