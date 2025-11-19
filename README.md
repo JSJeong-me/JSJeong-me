@@ -50,6 +50,4 @@ Here are some ideas to get you started:
 
 | Platform | Link |
 | :---: | :--- |
-| **Email** | `your_email@example.com` |
-| **Blog/Website** | `https://your-personal-blog.com` |
-| **ORCID** | `[Your ORCID ID Link]` |
+| **Email** | `jsjeong@hansung.ac.kr` |
