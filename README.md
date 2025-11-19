@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello! 👋 Joon Soo Jeong /PhD.
+# Hello! 👋 Joon Soo Jeong /PhD
 
 저는 LLM Agent, Interpretable AI (XAI), 그리고 Multi-Objective Optimization 분야를 연구하고 있습니다. 
 
