@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ---
 
 📚 Recent Publications (최근 연구 실적)
-저의 주요 연구 분야인 AI Agent, LLM, Interpretable AI 관련 논문 목록입니다.
+**주요 연구 분야인 AI Agent, LLM, Scalable Reasoning, Self-Evolution 관련 논문 목록**
 
 🏆 2025 (The Latest)
 가장 최근에 발표되었거나 진행 중인 연구들입니다.
