@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 발표 연도: 2024
 
-🖼️ **Custom Hairstyle Image Generation and Similarity Analysis Using Diffuser and PEFT** [[PDF]](https://github.com/JSJeong-me/Generate_AI_for_Image?tab=readme-ov-file)
+🖼️ **Custom Hairstyle Image Generation and Similarity Analysis Using Diffuser and PEFT** [[PDF]](https://drive.google.com/file/d/13V4wqjQAByZp5Lq4UXhIvOXFqzzAnB77/view)
 
 분야: Generative AI, Diffuser, PEFT
 
