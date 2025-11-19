@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # Hello! 👋 Joon Soo Jeong /PhD
 
-저는 LLM Agent, Interpretable AI (XAI), 그리고 Multi-Objective Optimization 분야를 연구하고 있습니다. 
+저는 LLM Agent, Multi-Objective Optimal Decision, 그리고 GRPO RL 분야를 연구하고 있습니다. 
 
 ---
 
