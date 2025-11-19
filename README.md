@@ -85,4 +85,4 @@ Here are some ideas to get you started:
 
 | Platform | Link |
 | :---: | :--- |
-| **Email** | `jsjeong@hansung.ac.kr` |
+| **Email** | `jsjeong@puzzlesystems.co.kr` |
