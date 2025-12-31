@@ -25,7 +25,7 @@ LLM Agent Self-evolution, Multi-Objective Optimal Decision, 그리고 GRPO RL �
 🏆 2025 (The Latest)
 가장 최근에 발표되었거나 진행 중인 연구들입니다.
 
-## 🚀 **Scalable Reasoning via Task Decomposition and Model Routing: Achieving Near-Linear Cost in End-to-End Pipelines** [[PDF]](https://drive.google.com/file/d/1n6oWMpHbmThr6PABQlEyGdnuRWQdSyRu/view?usp=sharing)
+## 🚀 **Scalable Reasoning via Task Decomposition and Model Routing** [[PDF]](https://drive.google.com/file/d/1Y3NO_LO2ObUlN4rYzX4NlNEECA92wjfh/view?usp=sharing)
 
 분야: LLM, Reasoning, System Architecture
 
