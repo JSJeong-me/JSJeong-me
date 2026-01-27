@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # Hello! 👋 Joon Soo Jeong /PhD
 
-LLM Agent Self-evolution, Multi-Objective Optimal Decision, 그리고 GRPO RL 분야를 연구하고 있습니다. 
+## VLA Physical AI Model for AMR, LLM Agent Self-evolution, Multi-Objective Optimal Decision, 그리고 GRPO RL 분야를 연구하고 있습니다. 
 
 ---
 
