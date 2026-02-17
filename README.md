@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 🏆 2025 (The Latest)
 가장 최근에 발표되었거나 진행 중인 연구들입니다.
 
-## 🚀 **Scalable Reasoning via Task Decomposition and Model Routing** [[PDF]](https://drive.google.com/file/d/1Y3NO_LO2ObUlN4rYzX4NlNEECA92wjfh/view?usp=sharing)
-
+## 🚀 **Scalable Reasoning via Task Decomposition and Model Routing** [[PDF]](https://drive.google.com/file/d/12CxTFlk0MiGZFN8Xe5vRY8tq2kvZJEsw/view?usp=sharing)
 분야: LLM, Reasoning, System Architecture
 
 발표 연도: 2025
