@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ## 🚀 **Scalable Reasoning via Task Decomposition and Model Routing** [[PDF]](https://drive.google.com/file/d/12CxTFlk0MiGZFN8Xe5vRY8tq2kvZJEsw/view?usp=sharing)
 분야: LLM, Reasoning, System Architecture
 
-발표 연도: 2025
+발표 연도: 2026
 
 ## ⚖️ **MO-GRPO for Mitigating Reward Hacking in Multi-Objective LLM RL through a Variance-Equalizing Whitening Layer** [[PDF]](https://drive.google.com/file/d/1xwYLy05o5MM9cyKbKivazBgrUHD0fKA9/view?usp=sharing)  [[Presentation]](https://drive.google.com/file/d/1TDxbp3-5ovSLMi-4oFZZItNYYP3uXgvz/view?usp=sharing)  [[Narration]](https://drive.google.com/file/d/1ShfQhpPSy6VXtfRYE29wvpGmxGqUqXI_/view?usp=sharing)
 
