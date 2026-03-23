@@ -25,11 +25,21 @@ Here are some ideas to get you started:
 📚 Recent Publications (최근 연구 실적)
 **주요 연구 분야인 AI Agent, LLM, Scalable Reasoning, Self-Evolution 관련 논문 목록**
 
-🏆 2025 (The Latest)
+🏆 2026 (The Latest)
 가장 최근에 발표되었거나 진행 중인 연구들입니다.
 
 ## 🚀 **Scalable Reasoning via Task Decomposition and Model Routing** [[PDF]](https://drive.google.com/file/d/12CxTFlk0MiGZFN8Xe5vRY8tq2kvZJEsw/view?usp=sharing)
 분야: LLM, Reasoning, System Architecture
+
+발표 연도: 2026
+
+## 🎉 **Self-Evolving Reasoning Agents through a GEPA Dynamic LLM Prompting** [[PDF]](https://drive.google.com/file/d/1c5MMDUymcPY_tALAVrvoWR5eHK9RdQVW/view?usp=sharing)
+분야: Dynamic Prompts, GEPA, Reasoning, Self-Evolving, LLM Agent
+
+발표 연도: 2026
+
+## 🪅 **Safe AMR Control with DSL and sLLM** [[PDF]](https://drive.google.com/file/d/1xRzOXL3uXYxeodGBO-0fEumHwRLIoZXJ/view?usp=sharing)
+분야: DSL, AMR, Reasoning, Robot, Agent
 
 발표 연도: 2026
 
