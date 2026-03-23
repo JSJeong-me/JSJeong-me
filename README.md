@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 발표 연도: 2026
 
-## 🎉 **Self-Evolving Reasoning Agents through a GEPA Dynamic LLM Prompting** [[PDF]](https://drive.google.com/file/d/1c5MMDUymcPY_tALAVrvoWR5eHK9RdQVW/view?usp=sharing)
+## 🎉 **Self-Evolving Reasoning Agents through a GEPA Dynamic LLM Prompting** [[PDF]](https://drive.google.com/file/d/1c5MMDUymcPY_tALAVrvoWR5eHK9RdQVW/view?usp=drive_link)
 분야: Dynamic Prompts, GEPA, Reasoning, Self-Evolving, LLM Agent
 
 발표 연도: 2026
