@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # Hello! 👋 Joon Soo Jeong /PhD
 
-## - 🔭 Physical AI, VLA Physical AI Model for AMR & [[On-Device LLM]](https://drive.google.com/file/d/1AEbu6fH5SvF8vG3y65oP_4licdiIq4b6/view?usp=sharing)
+## - 🔭 Physical AI, VLA Model for AMR & [[On-Device LLM]](https://drive.google.com/file/d/1AEbu6fH5SvF8vG3y65oP_4licdiIq4b6/view?usp=sharing)
 ## - 🌱 LLM Agent Self-evolution
 ## - 👯 Multi-Objective Optimal Decision
 ## - 🤔 그리고 GRPO RL 분야를 연구하고 있습니다. 
