@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # Hello! 👋 Joon Soo Jeong /PhD
 
-## - 🔭 VLA Physical AI Model for AMR & [[On-Device LLM]](https://drive.google.com/file/d/1AEbu6fH5SvF8vG3y65oP_4licdiIq4b6/view?usp=sharing)
+## - 🔭 Physical AI, VLA Physical AI Model for AMR & [[On-Device LLM]](https://drive.google.com/file/d/1AEbu6fH5SvF8vG3y65oP_4licdiIq4b6/view?usp=sharing)
 ## - 🌱 LLM Agent Self-evolution
 ## - 👯 Multi-Objective Optimal Decision
 ## - 🤔 그리고 GRPO RL 분야를 연구하고 있습니다. 
@@ -23,10 +23,15 @@ Here are some ideas to get you started:
 ---
 
 📚 Recent Publications (최근 연구 실적)
-**주요 연구 분야인 AI Agent, LLM, Scalable Reasoning, Self-Evolution 관련 논문 목록**
+**주요 연구 분야인 Physical AI, AI Agent, LLM, Scalable Reasoning, Self-Evolution 관련 논문 목록**
 
 🏆 2026 (The Latest)
 가장 최근에 발표되었거나 진행 중인 연구들입니다.
+
+## 🤖 **DSL-Guided Decoding for sLLM-based Robotics: From Probabilistic Reasoning to Deterministic Execution** [[PDF]](https://drive.google.com/file/d/1PGmOSNIXkyYXEns7ghPnvuBWWDO_yl6y/view?usp=sharing)
+분야: Physical AI, DSL(Domain-Specific Langauage), AMR(Autonomous Mobile Robot)
+
+발표 연도: 2026
 
 ## 🚀 **Scalable Reasoning via Task Decomposition and Model Routing** [[PDF]](https://drive.google.com/file/d/11GgEbN8JMk7IUwn7uaoamr6baeBD21FR/view?usp=sharing)
 분야: LLM, Reasoning, System Architecture
