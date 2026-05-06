@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 🏆 2026 (The Latest)
 가장 최근에 발표되었거나 진행 중인 연구들입니다.
 
-## 🤖 **DSL-Guided Decoding for sLLM-based Robotics: From Probabilistic Reasoning to Deterministic Execution** [[PDF]](https://drive.google.com/file/d/1PGmOSNIXkyYXEns7ghPnvuBWWDO_yl6y/view?usp=sharing)
+## 🤖 **DSL-Guided Decoding for sLLM-based Robotics: From Probabilistic Reasoning to Deterministic Execution** [[PDF]](https://drive.google.com/file/d/1PGmOSNIXkyYXEns7ghPnvuBWWDO_yl6y/view?usp=sharing) [[Presentaion]](https://drive.google.com/file/d/1L8_YvmqsfHVHAAtNjp7cK4uG-MKgy1Eu/view?usp=sharing)
 분야: Physical AI, DSL(Domain-Specific Langauage), AMR(Autonomous Mobile Robot)
 
 발표 연도: 2026
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 발표 연도: 2026
 
-## 🎉 **Self-Evolving Reasoning Agents through a GEPA Dynamic LLM Prompting** [[PDF]](https://drive.google.com/file/d/1c5MMDUymcPY_tALAVrvoWR5eHK9RdQVW/view?usp=drive_link)
+## 🎉 **Self-Evolving Reasoning Agents through a GEPA Dynamic LLM Prompting** [[PDF]](https://drive.google.com/file/d/1c5MMDUymcPY_tALAVrvoWR5eHK9RdQVW/view?usp=drive_link) [[Presentation]](https://drive.google.com/file/d/1c1xl3nk5RE7kWmHTz4dbnfC00Qi1b0Dd/view?usp=sharing)
 분야: Dynamic Prompts, GEPA, Reasoning, Self-Evolving, LLM Agent
 
 발표 연도: 2026
