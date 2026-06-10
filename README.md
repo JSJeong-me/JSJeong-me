@@ -28,6 +28,11 @@ Here are some ideas to get you started:
 🏆 2026 (The Latest)
 가장 최근에 발표되었거나 진행 중인 연구들입니다.
 
+## 🪅 **DSL-Mediated Safe VLM Planning for Autonomous Mobile Robots via Runtime Validation** [[PDF]](https://drive.google.com/file/d/1y7OaGiH2oPFuHd2Khv4klG-kXZVuxrWB/view?usp=drive_link)
+분야: VLM, DSL, Sensor-Context Reasoning, Robot, AMR
+
+발표 연도: 2026
+
 ## 🤖 **DSL-Guided Decoding for sLLM-based Robotics: From Probabilistic Reasoning to Deterministic Execution** [[PDF]](https://drive.google.com/file/d/1PGmOSNIXkyYXEns7ghPnvuBWWDO_yl6y/view?usp=sharing) [[Presentaion]](https://drive.google.com/file/d/1L8_YvmqsfHVHAAtNjp7cK4uG-MKgy1Eu/view?usp=sharing)
 분야: Physical AI, DSL(Domain-Specific Langauage), AMR(Autonomous Mobile Robot)
 
