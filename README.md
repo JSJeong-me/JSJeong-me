@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 ## - 🤔 그리고 DSL, GRPO RL 분야를 연구하고 있습니다.
 
 ---
+🏆 2026 (The Latest)
+가장 최근에 발표되었거나 진행 중인 연구들입니다.
 
 📚 Recent Publications (최근 연구 실적)
 **주요 연구 분야인 Physical AI, AI Agent, LLM, Scalable Reasoning, Self-Evolution 관련 논문 목록**
@@ -30,9 +32,6 @@ Here are some ideas to get you started:
 분야: Generative AI, Agentic AI, Physical AI
 
 발표 연도: 2026
-
-🏆 2026 (The Latest)
-가장 최근에 발표되었거나 진행 중인 연구들입니다.
 
 ## 🪅 **DSL-Mediated Safe VLM Planning for Autonomous Mobile Robots via Runtime Validation** [[PDF]](https://drive.google.com/file/d/1y7OaGiH2oPFuHd2Khv4klG-kXZVuxrWB/view?usp=drive_link)
 분야: VLM, DSL, Sensor-Context Reasoning, Robot, AMR
