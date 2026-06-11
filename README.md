@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 📚 Recent Publications (최근 연구 실적)
 **주요 연구 분야인 Physical AI, AI Agent, LLM, Scalable Reasoning, Self-Evolution 관련 논문 목록**
 
-## 🖼️ **Agentic AI 에서 Physical AI 까지: 자율 AI 사스템 구축 전략** [[PDF]](https://drive.google.com/file/d/1-1DEV40lwbS2ul43tn3TWh6GHe9F5WHm/view?usp=sharing)
+## 🖼️ **Agentic AI 에서 Physical AI 까지: VLA 기반 자율 AI 시스템 구축 전략** [[PDF]](https://drive.google.com/file/d/1-1DEV40lwbS2ul43tn3TWh6GHe9F5WHm/view?usp=sharing)
 
 분야: Generative AI, Agentic AI, Physical AI
 
