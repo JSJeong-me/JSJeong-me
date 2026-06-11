@@ -33,7 +33,15 @@ Here are some ideas to get you started:
 
 발표 연도: 2026
 
+## ⚖️ **DSL Guided Sensor Context Reasoning for Safety Optimal Runtime Decision Making in Autonomous Mobile Robots** [[PDF]](https://drive.google.com/file/d/1wyfzLTSpIK1Rv87FWn25q4yREcJBzAOw/view?usp=sharing)
+
+
+분야: Autonomous mobile robot, domain specific language, runtime validation, safety guard, sensor context reasoning
+
+발표 연도: 2026
+
 ## 🪅 **DSL-Mediated Safe VLM Planning for Autonomous Mobile Robots via Runtime Validation** [[PDF]](https://drive.google.com/file/d/1y7OaGiH2oPFuHd2Khv4klG-kXZVuxrWB/view?usp=drive_link)
+
 분야: VLM, DSL, Sensor-Context Reasoning, Robot, AMR
 
 발표 연도: 2026
