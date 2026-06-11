@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## - 🔭 Physical AI, VLM&VLA Model for AMR & [[On-Device LLM]](https://drive.google.com/file/d/1AEbu6fH5SvF8vG3y65oP_4licdiIq4b6/view?usp=sharing)
 ## - 🌱 LLM Agent Self-evolution (GEPA)
 ## - 👯 Sensor-context Reasoning based Optimal Decision
-## - 🤔 그리고 GRPO RL 분야를 연구하고 있습니다. 
+## - 🤔 그리고 DSL, GRPO RL 분야를 연구하고 있습니다.
 
 ---
 
