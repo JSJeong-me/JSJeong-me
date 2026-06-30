@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 발표 연도: 2026
 
-## 🎉 **Self-Evolving Reasoning Agents through a GEPA Dynamic LLM Prompting** [[PDF]](https://drive.google.com/file/d/1c5MMDUymcPY_tALAVrvoWR5eHK9RdQVW/view?usp=drive_link) [[Presentation]](https://drive.google.com/file/d/1c1xl3nk5RE7kWmHTz4dbnfC00Qi1b0Dd/view?usp=sharing)
+## 🎉 **Self-Evolving Reasoning Agents through a GEPA Dynamic LLM Prompting** [[PDF]](https://drive.google.com/file/d/1c5MMDUymcPY_tALAVrvoWR5eHK9RdQVW/view?usp=drive_link) [[Presentation]](https://drive.google.com/file/d/1c1xl3nk5RE7kWmHTz4dbnfC00Qi1b0Dd/view?usp=sharing) [[Isaac Sim]](https://docs.google.com/presentation/d/10q_gRPVAD2hF-v0usUX6y7JEk4gSJdVZ/edit?usp=sharing&ouid=109265759411599372601&rtpof=true&sd=true)
 분야: Dynamic Prompts, GEPA, Reasoning, Self-Evolving, LLM Agent
 
 발표 연도: 2026
