@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 발표 연도: 2026
 
-## 🪅 **DSL-Mediated Safe VLM Planning for Autonomous Mobile Robots via Runtime Validation** [[PDF]](https://drive.google.com/file/d/1y7OaGiH2oPFuHd2Khv4klG-kXZVuxrWB/view?usp=drive_link)
+## 🪅 **DSL-Mediated Safe VLM Planning for Autonomous Mobile Robots via Runtime Validation** [[PDF]](https://drive.google.com/file/d/1y7OaGiH2oPFuHd2Khv4klG-kXZVuxrWB/view?usp=drive_link) [[Presentation]](https://drive.google.com/file/d/1uqM0OBtItwuwdQwr90JxoDjyZOHz-gB-/view?usp=sharing)
 
 분야: VLM, DSL, Sensor-Context Reasoning, Robot, AMR
 
