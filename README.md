@@ -1,4 +1,3 @@
-<img width="4944" height="2944" alt="1783938870302" src="https://github.com/user-attachments/assets/4746d904-bde9-437c-b13b-75a8bcad0341" />
 <!--
 ## Hi there 👋
 **JSJeong-me/JSJeong-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
