@@ -45,9 +45,10 @@ Here are some ideas to get you started:
 
 분야: VLM, DSL, Sensor-Context Reasoning, Robot, AMR
 
-
+<!--
 <img width="3000" height="4000" alt="1783169255519" src="https://github.com/user-attachments/assets/e2cc8e0c-7e41-4950-830c-3b1fb9a8bb41" />
 <img width="4944" height="2944" alt="1783938870302" src="https://github.com/user-attachments/assets/7e9321f4-8a35-4095-b79c-07c2ccc1f95a" />
+-->
 
 발표 연도: 2026
 
