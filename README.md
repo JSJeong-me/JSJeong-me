@@ -44,6 +44,9 @@ Here are some ideas to get you started:
 
 분야: VLM, DSL, Sensor-Context Reasoning, Robot, AMR
 
+<img width="3000" height="4000" alt="1783169255519" src="https://github.com/user-attachments/assets/14861064-140a-4f14-845e-fe8de60e8746" />
+
+
 발표 연도: 2026
 
 ## 🤖 **DSL-Guided Decoding for sLLM-based Robotics: From Probabilistic Reasoning to Deterministic Execution** [[PDF]](https://drive.google.com/file/d/1PGmOSNIXkyYXEns7ghPnvuBWWDO_yl6y/view?usp=sharing) [[Presentaion]](https://drive.google.com/file/d/1L8_YvmqsfHVHAAtNjp7cK4uG-MKgy1Eu/view?usp=sharing)  [[Isaac Sim]](https://docs.google.com/presentation/d/10q_gRPVAD2hF-v0usUX6y7JEk4gSJdVZ/edit?usp=sharing&ouid=109265759411599372601&rtpof=true&sd=true)
