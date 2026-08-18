@@ -31,14 +31,14 @@ Here are some ideas to get you started:
 
 분야: Generative AI, Agentic AI, Physical AI
 
-발표 연도: ACIRS 2026
+발표 연도: 2026
 
 ## ⚖️ **DSL Guided Sensor Context Reasoning for Safety Optimal Runtime Decision Making in Autonomous Mobile Robots** [[PDF]](https://drive.google.com/file/d/1TlBF9JWcI8CKhDd9SnVhN3I-saCRTIiG/view?usp=sharing)  [[Presentation]](https://docs.google.com/presentation/d/1QfmTs1gWUS-lhXlVCYVMLp4jmO6AMCuv/edit?usp=sharing&ouid=109265759411599372601&rtpof=true&sd=true)
 
 
 분야: Autonomous mobile robot, domain specific language, runtime validation, safety guard, sensor context reasoning
 
-발표 연도: INTCOM 2026
+발표 연도: ACIRS 2026
 
 ## 🪅 **DSL-Mediated Safe VLM Planning for Autonomous Mobile Robots via Runtime Validation** [[PDF]](https://drive.google.com/file/d/1y7OaGiH2oPFuHd2Khv4klG-kXZVuxrWB/view?usp=drive_link) [[Presentation]](https://drive.google.com/file/d/1uqM0OBtItwuwdQwr90JxoDjyZOHz-gB-/view?usp=sharing)
 
@@ -48,12 +48,12 @@ Here are some ideas to get you started:
 <img width="4944" height="2944" alt="1783938870302" src="https://github.com/user-attachments/assets/2f292119-ed70-43b0-938c-51c6624c156c" />
 
 
-발표 연도: JICS 2026
+발표 연도: INTCOM 2026
 
 ## 🤖 **DSL-Guided Decoding for sLLM-based Robotics: From Probabilistic Reasoning to Deterministic Execution** [[PDF]](https://drive.google.com/file/d/1PGmOSNIXkyYXEns7ghPnvuBWWDO_yl6y/view?usp=sharing) [[Presentaion]](https://drive.google.com/file/d/1L8_YvmqsfHVHAAtNjp7cK4uG-MKgy1Eu/view?usp=sharing)  [[Isaac Sim]](https://docs.google.com/presentation/d/10q_gRPVAD2hF-v0usUX6y7JEk4gSJdVZ/edit?usp=sharing&ouid=109265759411599372601&rtpof=true&sd=true)
 분야: Physical AI, DSL(Domain-Specific Langauage), AMR(Autonomous Mobile Robot)
 
-발표 연도: 2026
+발표 연도: JICS 2026
 
 ## 🚀 **Scalable Reasoning via Task Decomposition and Model Routing** [[PDF]](https://drive.google.com/file/d/11GgEbN8JMk7IUwn7uaoamr6baeBD21FR/view?usp=sharing)
 분야: LLM, Reasoning, System Architecture
