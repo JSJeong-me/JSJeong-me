@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello! 👋 Joon Soo Jeong /PhD
+# Hello! 👋 Joon Soo Jeong / PhD
 
 ## - 🔭 Physical AI, VLM&VLA Model for AMR & [[On-Device LLM]](https://drive.google.com/file/d/1AEbu6fH5SvF8vG3y65oP_4licdiIq4b6/view?usp=sharing)
 ## - 🌱 LLM Agent Self-evolution (GEPA)
