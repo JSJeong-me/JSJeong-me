@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 
 발표 연도: 2026
 
-## ⚖️ **DSL Guided Sensor Context Reasoning for Safety Optimal Runtime Decision Making in Autonomous Mobile Robots** [[PDF]](https://drive.google.com/file/d/1TlBF9JWcI8CKhDd9SnVhN3I-saCRTIiG/view?usp=sharing)  [[Presentation]](https://docs.google.com/presentation/d/1QfmTs1gWUS-lhXlVCYVMLp4jmO6AMCuv/edit?usp=sharing&ouid=109265759411599372601&rtpof=true&sd=true)
+## ⚖️ **DSL Guided Sensor Context Reasoning for Safety Optimal Runtime Decision Making in Autonomous Mobile Robots** [[PDF]](https://drive.google.com/file/d/1Q9otFLp5R9qEbeZH7d6ymgg5YRYdIgp1/view?usp=sharing)  [[Presentation]](https://docs.google.com/presentation/d/1QfmTs1gWUS-lhXlVCYVMLp4jmO6AMCuv/edit?usp=sharing&ouid=109265759411599372601&rtpof=true&sd=true)
+IEEE, 2026 the 11th Asia-Pacific Conference on Intelligent Robot Systems
 
 
 분야: Autonomous mobile robot, domain specific language, runtime validation, safety guard, sensor context reasoning
