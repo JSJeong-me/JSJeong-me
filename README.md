@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 📚 Recent Publications (최근 연구 실적)
 **주요 연구 분야인 Physical AI, AI Agent, LLM, Scalable Reasoning, Self-Evolution 관련 논문 목록**
 
-## 🪅 **Physics- and Tool-Validated Synthetic Episode Distillation for Tool-Use Behavioral Transfer in Industrial AI** [[PDF]](https://drive.google.com/file/d/1zihbnw43oJ_ScbNz5mX7BSzQZe8Oblq4/view?usp=sharing)
+## 😄 **Physics- and Tool-Validated Synthetic Episode Distillation for Tool-Use Behavioral Transfer in Industrial AI** [[PDF]](https://drive.google.com/file/d/1zihbnw43oJ_ScbNz5mX7BSzQZe8Oblq4/view?usp=sharing)
 분야: Synthetic Episode Distillation, Tool-Use Behavioral Transfer, Industrial Reasoning, Physics-Based Simulation, LoRA
 
 발표 연도: 2026
