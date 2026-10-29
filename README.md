@@ -54,7 +54,7 @@ IEEE, 2026 the 11th Asia-Pacific Conference on Intelligent Robot Systems
 
 발표 연도: ACIRS 2026
 
-## 🪅 **DSL-Mediated Safe VLM Planning for Autonomous Mobile Robots via Runtime Validation** [[PDF]](https://drive.google.com/file/d/1y7OaGiH2oPFuHd2Khv4klG-kXZVuxrWB/view?usp=drive_link) [[Presentation]](https://drive.google.com/file/d/1uqM0OBtItwuwdQwr90JxoDjyZOHz-gB-/view?usp=sharing)
+## 🪅 **DSL-Mediated Safe VLM Planning for Autonomous Mobile Robots via Runtime Validation** [[PDF]](https://drive.google.com/file/d/1bcvSIhYf4S4FENqjwN9TVCXjXxI7Y44d/view?usp=sharing) [[Presentation]](https://drive.google.com/file/d/1uqM0OBtItwuwdQwr90JxoDjyZOHz-gB-/view?usp=sharing)
 
 분야: VLM, DSL, Sensor-Context Reasoning, Robot, AMR
 
